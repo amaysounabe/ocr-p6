@@ -36,4 +36,4 @@ cd ocr-p6
 pip install -r requirements.txt
 ```
 
-**ATTENTION** : L'utilitaire de NVIDIA **CUDA** étant nécessaire au fonctionnement de certaines librairies de traitement d'images, il est possible que vous rencontriez des problèmes à l'utilisation en local.
+**ATTENTION** : L'utilitaire de NVIDIA **CUDA** étant nécessaire au fonctionnement de certaines librairies (TensorFlow notamment), il est possible que vous rencontriez des problèmes à l'utilisation en local.
