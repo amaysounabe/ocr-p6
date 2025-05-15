@@ -2,7 +2,7 @@
 
 ## Description
 Taille du fichier **CSV** : **1,7 Mo** <br>
-Taille du dossier `data/images/` : **365,9 Mo**
+Taille du dossier `data/images/` : **365,9 Mo** <br>
 Les données ainsi que les fichiers **csv** et les images créées au cours du projet se trouvent dans le dossier `data/`
 
 ## Procédure
