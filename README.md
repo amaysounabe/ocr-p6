@@ -7,8 +7,16 @@ Les données ainsi que les fichiers **csv** et les images créées au cours du p
 
 ## Procédure
 - Exploration des données
-- Segmentation (KMeans, DBScan, Hierarchical Clustering)
-- Maintenance de l'algorithme
+- Etude de faisabilité NLP
+    - Nettoyage des descriptions
+    - Segmentation (Bag of Words, TF-IDF, Word2Vec, BERT, USE)
+- Etude de faisabilite Computer Vision
+    - Transformation des images
+    - Segmentation (SIFT, VGG16)
+- Classification
+    - Data Augmentation
+    - Segmentation à l'aide du modèle ImageNet
+    - Application d'un RandomForestClassifier
 
 
 ## Dossiers & fichiers
